@@ -1,0 +1,2 @@
+\\Mac\Home\Documents\MyProjects\SlitScan\x64\Debug\SlitScan.exe
+\\Mac\Home\Documents\MyProjects\SlitScan\x64\Debug\SlitScan.pdb
