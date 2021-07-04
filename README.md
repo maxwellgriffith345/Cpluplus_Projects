@@ -1,7 +1,7 @@
 # C++ Projects
 
 ## [GoogleKickStart](https://github.com/maxwellgriffith345/Cpluplus_Projects/tree/main/GoogleKickStart)
-- Attempts at the archieved Google Kick Start problems
+- Attempts at the archieved [Google Kick Start](https://codingcompetitions.withgoogle.com/kickstart/archive/) problems
 - Motivation is to develope problem solving skill and efficiency in C++
 
 
