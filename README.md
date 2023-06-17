@@ -5,3 +5,5 @@
 
 ## [Audio Compressor](https://github.com/maxwellgriffith345/Cpluplus_Projects/tree/main/AudioCompressor)
 - Implementation of dynamic range compression for a wave audio file
+- Based on algorithm from [Matlab Compressor](https://www.mathworks.com/help/audio/ref/compressor-system-object.html)
+- Reads in wave file and compresses dynamic range with specified threshold, attack and release properties
